@@ -1,9 +1,3 @@
-This is a simple program I wrote.
-
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-
-greet("Charlie")
-
-
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Indroduce myself to the world
